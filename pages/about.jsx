@@ -69,7 +69,7 @@ export default function index() {
                         Embrace the power of algorithms and embark on an exciting problem-solving adventure with <span className="monu">AlgoSearch!</span>
                     </p>
                     <p>
-                        Developer  <span className="text-blue-600 cursor-pointer"><a href="https://www.linkedin.com/in/gaudsuraj/" target="_blank">Suraj Gaud</a></span>
+                        Developer  <span className="text-blue-600 cursor-pointer"><a href="https://www.linkedin.com/in/gaudsuraj/" target="_blank">Aryan Singh</a></span>
                     </p>
                 </div>
                 <div className="my-10 w-[90vw] mx-auto">
