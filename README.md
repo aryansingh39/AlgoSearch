@@ -1,11 +1,11 @@
-# AlgoZenith WebDev Hackathon: AlgoSearch
+AlgoSearch
 
 ![Alt Text](./ezgif.com-video-to-gif%20(1).gif)
 
 
-Check out the live version of AlgoSearch at [https://algosearchbeta.netlify.app/](https://algosearchbeta.netlify.app/). 🔎
+Check out the live version of AlgoSearch at [https://earnest-torrone-58c4e4.netlify.app/](https://earnest-torrone-58c4e4.netlify.app/). 🔎
 
-Welcome to AlgoSearch, a project developed for the AlgoZenith WebDev Hackathon! 🚀
+Welcome to AlgoSearch
 
 ## About AlgoSearch
 
@@ -21,7 +21,7 @@ AlgoSearch is a dynamic search engine designed to streamline your journey throug
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/surajxd/AlgoSearch.git`
+1. Clone the repository: `git clone https://github.com/aryansingh39/AlgoSearch.git`
 2. Install dependencies: `npm install`
 3. Run the app: `npm run dev`
 
@@ -33,7 +33,7 @@ AlgoSearch is a dynamic search engine designed to streamline your journey throug
 
 ## Live Demo
 
-Check out the live version of AlgoSearch at [https://algosearchbeta.netlify.app/](https://algosearchbeta.netlify.app/).
+Check out the live version of AlgoSearch at [https://earnest-torrone-58c4e4.netlify.app/](https://earnest-torrone-58c4e4.netlify.app/).
 
 ## Contributions
 
@@ -45,6 +45,6 @@ Got feedback or suggestions? We'd love to hear from you. Open an issue or reach 
 
 ## Acknowledgments
 
-AlgoSearch was developed for the AlgoZenith WebDev Hackathon. Special thanks to the organizers and fellow participants for the inspiration and support.
+Special thanks to everyone who supported the development and testing of AlgoSearch.
 
 Let's solve algorithms with ease using AlgoSearch! Happy hacking! 🌟
