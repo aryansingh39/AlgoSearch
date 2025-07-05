@@ -59,17 +59,13 @@ export default function index() {
                     </p>
                     <p>
 
-                        AlgoSearch owes its success to the invaluable guidance of mentors  <span className="text-blue-600 cursor-pointer"><a href="https://www.linkedin.com/in/acraider/" target="_blank">Vivek Gupta</a></span> and <span href="https://www.linkedin.com/in/prabaljainn/" target="_blank" className="text-blue-600 cursor-pointer"><a>Prabal Jain</a></span> . With their extensive knowledge and expertise, they have shaped AlgoSearch into an indispensable tool for every aspiring coder.
-                    </p>
-                    <p>
-
                         Join the AlgoSearch community today and unlock a world of challenging and engaging algorithmic problems. Whether you're preparing for coding interviews, participating in programming competitions, or simply honing your problem-solving skills, AlgoSearch has got you covered.
                     </p>
                     <p>
                         Embrace the power of algorithms and embark on an exciting problem-solving adventure with <span className="monu">AlgoSearch!</span>
                     </p>
                     <p>
-                        Developer  <span className="text-blue-600 cursor-pointer"><a href="https://www.linkedin.com/in/gaudsuraj/" target="_blank">Aryan Singh</a></span>
+                        Developer  <span className="text-blue-600 cursor-pointer">Aryan Singh</span>
                     </p>
                 </div>
                 <div className="my-10 w-[90vw] mx-auto">
